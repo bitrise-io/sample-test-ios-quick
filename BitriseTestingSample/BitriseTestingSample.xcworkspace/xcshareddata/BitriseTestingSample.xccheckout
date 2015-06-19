@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>745DBB17-68DC-47DE-B489-4BF2420EFBC4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BitriseTestingSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E7C0E211552C47A9E862F8B6845DB57E5AD15EE9</key>
+		<string>https://github.com/bazscsa/sample-test-ios-quick.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BitriseTestingSample/BitriseTestingSample.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E7C0E211552C47A9E862F8B6845DB57E5AD15EE9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bazscsa/sample-test-ios-quick.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E7C0E211552C47A9E862F8B6845DB57E5AD15EE9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E7C0E211552C47A9E862F8B6845DB57E5AD15EE9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sample-test-ios-quick</string>
+		</dict>
+	</array>
+</dict>
+</plist>
